@@ -1,4 +1,4 @@
-# Smart Developer Assistant (Profipass)
+# Smart Developer Assistant
 
 **Smart Developer Assistant** — это мощный швейцарский нож для разработчика, объединяющий в себе безопасный менеджер паролей, продвинутый HTTP-клиент, Mock-сервер и инструменты управления инфраструктурой. Построен на базе .NET 9.0 MAUI.
 
